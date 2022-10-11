@@ -23,3 +23,17 @@ switch (week)
         console.log('MONDAY');
         break;
 }
+let num = prompt ('raqam kiriting');
+
+if(num % 2 ==0){
+       alert("juft son");
+}else{
+    alert("toq son");
+}
+// let cardNumber = prompt('plastik raqamni kiriting');
+
+// if (+cardNumber !== NaN && cardNumber.lenth == 16) {
+//     console.log('togri');
+// } else {
+//     console.log('notogri');
+// }
