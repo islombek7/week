@@ -30,10 +30,3 @@ if(num % 2 ==0){
 }else{
     alert("toq son");
 }
-// let cardNumber = prompt('plastik raqamni kiriting');
-
-// if (+cardNumber !== NaN && cardNumber.lenth == 16) {
-//     console.log('togri');
-// } else {
-//     console.log('notogri');
-// }
